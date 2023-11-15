@@ -8,19 +8,20 @@
 }
 
 input[type="text"] {
-  border: solid 1px var(--primary-color);
+  border: solid 1px #33323200;
   padding: 10px;
   border-radius: 8px;
   margin-right: 4px;
   display: inline-block;
   width: 30%;
+  outline: none;
 }
 
 button {
   padding: 10px;
-  border: solid 1px var(--primary-color);
-  background: rgb(0, 0, 0);
-  color: red;
+  border: solid 1px #0000;
+  background: #1590ff;
+  color: #ffff;
   border-radius: 8px;
 }
 
